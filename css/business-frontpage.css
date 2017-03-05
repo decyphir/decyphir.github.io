@@ -14,7 +14,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-    height: 400px;
+    height: 600px;
     /*background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
     /*background: url('../img/DecyphirTransparent.png') center center no-repeat scroll;*/
     background: url('../img/DecyphirTransparent.png') center no-repeat scroll;
@@ -22,7 +22,7 @@ body {
     /*-moz-background-size: cover;*/
     /*background-size: cover;*/
     /*-o-background-size: cover;*/
-    background-size: 100%;
+    background-size: 80%;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
