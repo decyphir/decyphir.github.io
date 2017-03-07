@@ -7,7 +7,6 @@
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     margin: 50px;
-    /*background-color: black;*/
     text-align: center;
 }
 
@@ -15,13 +14,7 @@ body {
 
 .business-header {
     height: 600px;
-    /*background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
-    /*background: url('../img/DecyphirTransparent.png') center center no-repeat scroll;*/
     background: url('../img/DecyphirTransparent.png') center no-repeat scroll;
-    /*-webkit-background-size: cover;*/
-    /*-moz-background-size: cover;*/
-    /*background-size: cover;*/
-    /*-o-background-size: cover;*/
     background-size: 80%;
 }
 
